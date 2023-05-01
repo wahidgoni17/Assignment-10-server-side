@@ -1,0 +1,56 @@
+[
+  {
+    "id" : 1,
+    "name": "Pablo James",
+    "photo-URL" : "https://media.istockphoto.com/id/1153669122/photo/mature-restaurant-employee-man-on-yellow-wall.jpg?s=612x612&w=is&k=20&c=z0UGdKqvN27wgLUm9BLFJNy5ovrbTFvdh2-B8ydeTww=",
+    "bio" : "Pablo James is an accomplished chef with over a decade of experience in the culinary arts. He has worked in a variety of kitchens, from small bistros to high-end restaurants, and has developed a reputation for creating innovative and delicious dishes.",
+    "years_of_experience": 12,
+    "likes" : 2456,
+    "num_recipes": 250
+  },
+  {
+    "id" : 2,
+    "name": "Marco Rodriguez",
+    "photo-URL" : "https://media.istockphoto.com/id/1410963725/photo/adult-male-standing-with-arms-crossed-in-a-studio-setting.jpg?s=612x612&w=0&k=20&c=G9sV9CM7ZAtYjU-92a3bihwDnrC6ayL3-rNmr2jGDo0=",
+    "bio" : "Marco Rodriguez is a passionate chef who takes inspiration from his Mexican heritage. He has worked in several well-known restaurants in Mexico and the United States, and is known for his bold and flavorful dishes.",
+    "years_of_experience": 8,
+    "likes" : 2646,
+    "num_recipes": 175
+  },
+  {
+    "id" : 3,
+    "name": "Adam Ryan",
+    "photo-URL" : "https://media.istockphoto.com/id/1153669122/photo/mature-restaurant-employee-man-on-yellow-wall.jpg?s=612x612&w=is&k=20&c=z0UGdKqvN27wgLUm9BLFJNy5ovrbTFvdh2-B8ydeTww=",
+    "bio" : "Adam Ryan is a rising star in the culinary world, with a talent for blending flavors and creating unique dishes. He has trained under several renowned chefs, and has won several awards for his innovative cuisine.",
+    "years_of_experience": 5,
+    "likes" : 4654,
+    "num_recipes": 100
+  },
+  {
+    "id" : 4,
+    "name": "David Kim",
+    "photo-URL" : "https://media.istockphoto.com/id/1324846868/photo/portrait-of-a-happy-young-man-standing-with-arms-folded.jpg?s=612x612&w=0&k=20&c=kc8JuX2Ara1F1sAZwsXUHp3dsFLoLiaxABpaOpgvZXg=",
+    "bio" : "David Kim is a veteran chef with years of experience in the kitchen. He has worked in a variety of settings, from high-end restaurants to catering companies, and has developed a deep understanding of different cuisines and cooking techniques.",
+    "years_of_experience": 15,
+    "likes" : 7954,
+    "num_recipes": 300
+  },
+  {
+    "id" : 5,
+    "name": "Sam Willson",
+    "photo-URL" : "https://media.istockphoto.com/id/1226921459/photo/your-new-go-to-coffee-order-happy-man-enjoy-drinking-coffee-handsome-guy-with-takeaway-coffee.jpg?s=612x612&w=0&k=20&c=GIhPh8Uugp1rE6CVH-Z7B62EA_XhBYRaJDX-REKglh0=",
+    "bio" : "Sam Willson is a creative chef who approaches cooking like an art form. He has worked in several Michelin-starred restaurants, and is known for his visually stunning and delicious dishes that incorporate a range of textures and flavors.",
+    "years_of_experience": 10,
+    "likes" : 7254,
+    "num_recipes": 200
+  },
+  {
+    "id" : 6,
+    "name": "Carlos Martinez",
+    "photo-URL" : "https://media.istockphoto.com/id/147088631/photo/soccer-player-standing.jpg?s=612x612&w=0&k=20&c=IySx0-G7oXv4B4LJirsIqb6oKHlMKDriqmgwtlObu2I=",
+    "bio" : "Carlos Martinez is a master chef with decades of experience in the kitchen. He has trained under some of the most renowned chefs in the world, and has won numerous awards for his exquisite cuisine. He is known for his attention to detail and his ability to elevate even the simplest ingredients to new heights.",
+    "years_of_experience": 20,
+    "likes" : 4561,
+    "num_recipes": 500
+  }
+]
