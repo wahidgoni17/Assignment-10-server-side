@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "food_name": "Pizza Margherita",
+    "picture_url": "https://static01.nyt.com/images/2014/04/09/dining/09JPPIZZA2/09JPPIZZA2-master768-v2.jpg?w=1280&q=75"
+  },
+  {
+    "id": 2,
+    "food_name": "Spaghetti Carbonara",
+    "picture_url": "https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-threeByTwoMediumAt2X-v2.jpg"
+  },
+  {
+    "id": 3,
+    "food_name": "Risotto alla Milanese",
+    "picture_url": "https://www.giallozafferano.com/images/227-22716/saffron-risotto_650x433_wm.jpg"
+  },
+  {
+    "id": 4,
+    "food_name": "Tiramisu",
+    "picture_url": "https://sallysbakingaddiction.com/wp-content/uploads/2019/06/homemade-tiramisu-2.jpg"
+  },
+  {
+    "id": 5,
+    "food_name": "Lasagna Bolognese",
+    "picture_url": "https://keepingitsimpleitalian.com/wp-content/uploads/2022/11/lasagna-bolognese-slice.jpg"
+  },
+  {
+    "id": 6,
+    "food_name": "Panna Cotta",
+    "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Panna_cotta_a_una_pizzeria_del_carrer_de_Baix%2C_Val%C3%A8ncia.jpg/1200px-Panna_cotta_a_una_pizzeria_del_carrer_de_Baix%2C_Val%C3%A8ncia.jpg"
+  }
+]
