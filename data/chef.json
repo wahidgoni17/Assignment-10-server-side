@@ -4,6 +4,58 @@
     "name": "Pablo James",
     "photo-URL" : "https://media.istockphoto.com/id/1153669122/photo/mature-restaurant-employee-man-on-yellow-wall.jpg?s=612x612&w=is&k=20&c=z0UGdKqvN27wgLUm9BLFJNy5ovrbTFvdh2-B8ydeTww=",
     "bio" : "Pablo James is an accomplished chef with over a decade of experience in the culinary arts. He has worked in a variety of kitchens, from small bistros to high-end restaurants, and has developed a reputation for creating innovative and delicious dishes.",
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": [
+          "8 oz spaghetti",
+          "4 oz pancetta, diced",
+          "3 cloves garlic, minced",
+          "2 large egg yolks",
+          "1/2 cup grated Parmesan cheese",
+          "Salt and pepper",
+          "Fresh parsley, chopped"
+        ],
+        "cooking_method":
+          "Cook spaghetti in a pot of boiling salted water until al dente.Meanwhile, cook pancetta in a large skillet over medium heat until crispy, about 5 minutes.Add garlic to the skillet and cook until fragrant, about 1 minute.In a small bowl, whisk together egg yolks, Parmesan cheese, salt, and pepper.Drain spaghetti and add it to the skillet with pancetta and garlic. Toss to combine.Remove skillet from heat and pour egg mixture over spaghetti. Toss until coated and creamy.Serve hot, garnished with chopped parsley.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Garlic Butter Steak",
+        "ingredients": [
+          "2 ribeye steaks",
+          "4 cloves garlic, minced",
+          "2 tbsp butter",
+          "1 tbsp olive oil",
+          "Salt and pepper",
+          "Fresh thyme, chopped"
+        ],
+        "cooking_method":
+          "Preheat oven to 400°F.Season steaks generously with salt and pepper.Heat olive oil in a large oven-safe skillet over high heat.Add steaks to the skillet and cook for 2-3 minutes per side until seared.Add minced garlic and butter to the skillet and cook until butter is melted and foamy.Baste the steaks with garlic butter using a spoon.Transfer skillet to the preheated oven and cook for 5-10 minutes for medium-rare doneness.Remove skillet from oven and let steaks rest for 5 minutes before slicing.Garnish with chopped thyme and serve hot.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Korean Fried Chicken",
+        "ingredients": [
+          "1 lb chicken wings",
+          "1/2 cup flour",
+          "1/2 cup cornstarch",
+          "1 tsp salt",
+          "1/2 tsp black pepper",
+          "1/2 tsp garlic powder",
+          "1/2 tsp paprika",
+          "1/4 tsp cayenne pepper",
+          "1/2 cup buttermilk",
+          "Oil for frying",
+          "Green onions, chopped",
+          "Sesame seeds"
+        ],
+        "cooking_method":
+          "Preheat oil in a deep fryer or large pot to 375°F.In a bowl, mix together flour, cornstarch, salt, black pepper, garlic powder, paprika, and cayenne pepper.In another bowl, pour buttermilk.Dip chicken wings into the buttermilk, then dredge in the flour mixture, shaking off any excess.Fry chicken wings in the hot oil until golden brown and crispy, about 10-12 minutes.Remove wings from oil and drain on paper towels.Transfer wings to a clean bowl and toss with chopped green onions and sesame seeds.Serve hot with your favorite dipping sauce."
+        ,
+        "rating": 4.7
+      }
+    ],
     "years_of_experience": 12,
     "likes" : 2456,
     "num_recipes": 250
@@ -13,6 +65,58 @@
     "name": "Marco Rodriguez",
     "photo-URL" : "https://media.istockphoto.com/id/1410963725/photo/adult-male-standing-with-arms-crossed-in-a-studio-setting.jpg?s=612x612&w=0&k=20&c=G9sV9CM7ZAtYjU-92a3bihwDnrC6ayL3-rNmr2jGDo0=",
     "bio" : "Marco Rodriguez is a passionate chef who takes inspiration from his Mexican heritage. He has worked in several well-known restaurants in Mexico and the United States, and is known for his bold and flavorful dishes.",
+    "recipes": [
+      {
+        "recipe_name": "Grilled Shrimp with Mango Salsa",
+        "ingredients": [
+          "1 lb shrimp",
+          "1 tbsp olive oil",
+          "Salt and pepper",
+          "1 mango, diced",
+          "1/4 red onion, diced",
+          "1 jalapeño, seeded and diced",
+          "2 tbsp chopped cilantro",
+          "1 tbsp lime juice"
+        ],
+        "cooking_method": "Preheat grill to medium-high heat. In a large bowl, toss shrimp with olive oil, salt, and pepper. Grill shrimp for 2-3 minutes per side, until cooked through. In a separate bowl, combine diced mango, red onion, jalapeño, cilantro, and lime juice to make salsa. Serve shrimp with salsa on the side.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Pan-Roasted Chicken with Lemon-Thyme Sauce",
+        "ingredients": [
+          "4 chicken breasts",
+          "1 tbsp olive oil",
+          "Salt and pepper",
+          "2 tbsp butter",
+          "2 cloves garlic, minced",
+          "1/4 cup white wine",
+          "1/4 cup chicken broth",
+          "1/4 cup heavy cream",
+          "1 tbsp fresh thyme",
+          "1 lemon, juiced"
+        ],
+        "cooking_method": "Preheat oven to 375°F. Season chicken breasts with salt and pepper. Heat olive oil in a large oven-safe skillet over medium-high heat. Add chicken breasts and cook for 2-3 minutes per side, until browned. Transfer skillet to oven and bake for 15-20 minutes, until chicken is cooked through. Remove skillet from oven and transfer chicken to a plate. In the same skillet, melt butter over medium heat. Add garlic and cook until fragrant. Add white wine and chicken broth and bring to a simmer. Stir in heavy cream, thyme, and lemon juice. Serve sauce over chicken.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Sesame Noodles with Vegetables",
+        "ingredients": [
+          "8 oz spaghetti",
+          "1/4 cup soy sauce",
+          "2 tbsp rice vinegar",
+          "2 tbsp sesame oil",
+          "2 tbsp honey",
+          "2 cloves garlic, minced",
+          "1 red bell pepper, thinly sliced",
+          "1/2 cup shredded carrots",
+          "1/2 cup snow peas",
+          "2 green onions, thinly sliced",
+          "2 tbsp sesame seeds"
+        ],
+        "cooking_method": "Cook spaghetti according to package instructions. In a small bowl, whisk together soy sauce, rice vinegar, sesame oil, honey, and garlic to make sauce. Drain spaghetti and rinse with cold water. In a large bowl, toss spaghetti with sauce, bell pepper, carrots, snow peas, and green onions. Top with sesame seeds.",
+        "rating": 4.3
+      }
+    ],
     "years_of_experience": 8,
     "likes" : 2646,
     "num_recipes": 175
@@ -22,6 +126,67 @@
     "name": "Adam Ryan",
     "photo-URL" : "https://media.istockphoto.com/id/1153669122/photo/mature-restaurant-employee-man-on-yellow-wall.jpg?s=612x612&w=is&k=20&c=z0UGdKqvN27wgLUm9BLFJNy5ovrbTFvdh2-B8ydeTww=",
     "bio" : "Adam Ryan is a rising star in the culinary world, with a talent for blending flavors and creating unique dishes. He has trained under several renowned chefs, and has won several awards for his innovative cuisine.",
+    "recipes": [
+      {
+        "recipe_name": "Taco Salad",
+        "ingredients": [
+          "1 lb ground beef",
+          "1 packet taco seasoning mix",
+          "1 head of lettuce, chopped",
+          "1 cup shredded cheddar cheese",
+          "1 cup diced tomatoes",
+          "1 cup diced red onion",
+          "1 cup diced bell pepper",
+          "1 can black beans, drained and rinsed",
+          "1 can corn, drained",
+          "1/2 cup salsa",
+          "1/4 cup sour cream",
+          "1/4 cup chopped fresh cilantro",
+          "Tortilla chips, for serving"
+        ],
+        "cooking_method":
+          "In a large skillet, cook ground beef over medium heat until browned and cooked through. Drain excess fat.Add taco seasoning mix and stir to combine. Cook for 2-3 minutes.In a large bowl, mix together chopped lettuce, shredded cheese, diced tomatoes, red onion, and bell pepper.Add black beans, corn, salsa, and sour cream to the bowl. Toss to combine.Add cooked ground beef to the bowl and toss to combine.Garnish with chopped cilantro and serve with tortilla chips.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Grilled Salmon with Lemon Herb Butter",
+        "ingredients": [
+          "4 salmon fillets",
+          "1/2 cup unsalted butter, softened",
+          "1 lemon, zested and juiced",
+          "1 garlic clove, minced",
+          "1 tbsp chopped fresh parsley",
+          "1 tbsp chopped fresh dill",
+          "Salt and pepper",
+          "Olive oil, for grilling"
+        ],
+        "cooking_method": 
+          "Preheat grill to medium-high heat.Season salmon fillets with salt and pepper.In a small bowl, mix together softened butter, lemon zest, lemon juice, garlic, parsley, and dill.Divide butter mixture evenly among salmon fillets, spreading it on top of each fillet.Drizzle olive oil on the grill grates and place salmon fillets on the grill, skin side down.Grill for 5-6 minutes, then carefully flip fillets over and grill for an additional 3-4 minutes, or until salmon is cooked through and flaky.Serve hot with additional lemon wedges,if desired."
+        ,
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Beef and Broccoli Stir Fry",
+        "ingredients": [
+          "1 lb flank steak, thinly sliced",
+          "1 lb broccoli florets",
+          "1 onion, sliced",
+          "2 cloves garlic, minced",
+          "1 inch ginger, minced",
+          "1/4 cup soy sauce",
+          "2 tbsp oyster sauce",
+          "2 tbsp hoisin sauce",
+          "1 tbsp cornstarch",
+          "1/4 cup water",
+          "2 tbsp vegetable oil",
+          "Salt and pepper"
+        ],
+        "cooking_method":
+          "In a large bowl, mix together sliced flank steak with soy sauce and cornstarch. Season with salt and pepper.In a small bowl, mix together oyster sauce, hoisin sauce, and water. Set aside.In a wok or large skillet, heat vegetable oil over high heat. Add sliced onion and stir fry for 2-3 minutes, or until softened.Add minced garlic and ginger and stir fry for another 1-2 minutes, or until fragrant.Add sliced beef to the wok and stir fry for 3-4 minutes, or until browned and cooked through.Add broccoli florets to the wok and stir fry for an additional 2-3 minutes, or until tender but still crisp.Pour the sauce over the beef and broccoli and stir to combine. Cook for another 1-2 minutes, or until the sauce has thickened and coated the beef and broccoli.Serve hot over rice."
+          ,
+        "rating": 4.8
+      }
+    ],
     "years_of_experience": 5,
     "likes" : 4654,
     "num_recipes": 100
@@ -31,6 +196,58 @@
     "name": "David Kim",
     "photo-URL" : "https://media.istockphoto.com/id/1324846868/photo/portrait-of-a-happy-young-man-standing-with-arms-folded.jpg?s=612x612&w=0&k=20&c=kc8JuX2Ara1F1sAZwsXUHp3dsFLoLiaxABpaOpgvZXg=",
     "bio" : "David Kim is a veteran chef with years of experience in the kitchen. He has worked in a variety of settings, from high-end restaurants to catering companies, and has developed a deep understanding of different cuisines and cooking techniques.",
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": [
+          "8 oz spaghetti",
+          "4 oz pancetta, diced",
+          "3 cloves garlic, minced",
+          "2 large egg yolks",
+          "1/2 cup grated Parmesan cheese",
+          "Salt and pepper",
+          "Fresh parsley, chopped"
+        ],
+        "cooking_method":
+          "Cook spaghetti in a pot of boiling salted water until al dente.Meanwhile, cook pancetta in a large skillet over medium heat until crispy, about 5 minutes.Add garlic to the skillet and cook until fragrant, about 1 minute.In a small bowl, whisk together egg yolks, Parmesan cheese, salt, and pepper.Drain spaghetti and add it to the skillet with pancetta and garlic. Toss to combine.Remove skillet from heat and pour egg mixture over spaghetti. Toss until coated and creamy.Serve hot, garnished with chopped parsley.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Garlic Butter Steak",
+        "ingredients": [
+          "2 ribeye steaks",
+          "4 cloves garlic, minced",
+          "2 tbsp butter",
+          "1 tbsp olive oil",
+          "Salt and pepper",
+          "Fresh thyme, chopped"
+        ],
+        "cooking_method":
+          "Preheat oven to 400°F.Season steaks generously with salt and pepper.Heat olive oil in a large oven-safe skillet over high heat.Add steaks to the skillet and cook for 2-3 minutes per side until seared.Add minced garlic and butter to the skillet and cook until butter is melted and foamy.Baste the steaks with garlic butter using a spoon.Transfer skillet to the preheated oven and cook for 5-10 minutes for medium-rare doneness.Remove skillet from oven and let steaks rest for 5 minutes before slicing.Garnish with chopped thyme and serve hot.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Korean Fried Chicken",
+        "ingredients": [
+          "1 lb chicken wings",
+          "1/2 cup flour",
+          "1/2 cup cornstarch",
+          "1 tsp salt",
+          "1/2 tsp black pepper",
+          "1/2 tsp garlic powder",
+          "1/2 tsp paprika",
+          "1/4 tsp cayenne pepper",
+          "1/2 cup buttermilk",
+          "Oil for frying",
+          "Green onions, chopped",
+          "Sesame seeds"
+        ],
+        "cooking_method":
+          "Preheat oil in a deep fryer or large pot to 375°F.In a bowl, mix together flour, cornstarch, salt, black pepper, garlic powder, paprika, and cayenne pepper.In another bowl, pour buttermilk.Dip chicken wings into the buttermilk, then dredge in the flour mixture, shaking off any excess.Fry chicken wings in the hot oil until golden brown and crispy, about 10-12 minutes.Remove wings from oil and drain on paper towels.Transfer wings to a clean bowl and toss with chopped green onions and sesame seeds.Serve hot with your favorite dipping sauce."
+        ,
+        "rating": 4.7
+      }
+    ],
     "years_of_experience": 15,
     "likes" : 7954,
     "num_recipes": 300
@@ -40,6 +257,58 @@
     "name": "Sam Willson",
     "photo-URL" : "https://media.istockphoto.com/id/1226921459/photo/your-new-go-to-coffee-order-happy-man-enjoy-drinking-coffee-handsome-guy-with-takeaway-coffee.jpg?s=612x612&w=0&k=20&c=GIhPh8Uugp1rE6CVH-Z7B62EA_XhBYRaJDX-REKglh0=",
     "bio" : "Sam Willson is a creative chef who approaches cooking like an art form. He has worked in several Michelin-starred restaurants, and is known for his visually stunning and delicious dishes that incorporate a range of textures and flavors.",
+    "recipes": [
+      {
+        "recipe_name": "Grilled Shrimp with Mango Salsa",
+        "ingredients": [
+          "1 lb shrimp",
+          "1 tbsp olive oil",
+          "Salt and pepper",
+          "1 mango, diced",
+          "1/4 red onion, diced",
+          "1 jalapeño, seeded and diced",
+          "2 tbsp chopped cilantro",
+          "1 tbsp lime juice"
+        ],
+        "cooking_method": "Preheat grill to medium-high heat. In a large bowl, toss shrimp with olive oil, salt, and pepper. Grill shrimp for 2-3 minutes per side, until cooked through. In a separate bowl, combine diced mango, red onion, jalapeño, cilantro, and lime juice to make salsa. Serve shrimp with salsa on the side.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Pan-Roasted Chicken with Lemon-Thyme Sauce",
+        "ingredients": [
+          "4 chicken breasts",
+          "1 tbsp olive oil",
+          "Salt and pepper",
+          "2 tbsp butter",
+          "2 cloves garlic, minced",
+          "1/4 cup white wine",
+          "1/4 cup chicken broth",
+          "1/4 cup heavy cream",
+          "1 tbsp fresh thyme",
+          "1 lemon, juiced"
+        ],
+        "cooking_method": "Preheat oven to 375°F. Season chicken breasts with salt and pepper. Heat olive oil in a large oven-safe skillet over medium-high heat. Add chicken breasts and cook for 2-3 minutes per side, until browned. Transfer skillet to oven and bake for 15-20 minutes, until chicken is cooked through. Remove skillet from oven and transfer chicken to a plate. In the same skillet, melt butter over medium heat. Add garlic and cook until fragrant. Add white wine and chicken broth and bring to a simmer. Stir in heavy cream, thyme, and lemon juice. Serve sauce over chicken.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Sesame Noodles with Vegetables",
+        "ingredients": [
+          "8 oz spaghetti",
+          "1/4 cup soy sauce",
+          "2 tbsp rice vinegar",
+          "2 tbsp sesame oil",
+          "2 tbsp honey",
+          "2 cloves garlic, minced",
+          "1 red bell pepper, thinly sliced",
+          "1/2 cup shredded carrots",
+          "1/2 cup snow peas",
+          "2 green onions, thinly sliced",
+          "2 tbsp sesame seeds"
+        ],
+        "cooking_method": "Cook spaghetti according to package instructions. In a small bowl, whisk together soy sauce, rice vinegar, sesame oil, honey, and garlic to make sauce. Drain spaghetti and rinse with cold water. In a large bowl, toss spaghetti with sauce, bell pepper, carrots, snow peas, and green onions. Top with sesame seeds.",
+        "rating": 4.3
+      }
+    ],
     "years_of_experience": 10,
     "likes" : 7254,
     "num_recipes": 200
@@ -49,8 +318,68 @@
     "name": "Carlos Martinez",
     "photo-URL" : "https://media.istockphoto.com/id/147088631/photo/soccer-player-standing.jpg?s=612x612&w=0&k=20&c=IySx0-G7oXv4B4LJirsIqb6oKHlMKDriqmgwtlObu2I=",
     "bio" : "Carlos Martinez is a master chef with decades of experience in the kitchen. He has trained under some of the most renowned chefs in the world, and has won numerous awards for his exquisite cuisine. He is known for his attention to detail and his ability to elevate even the simplest ingredients to new heights.",
+    "recipes": [
+      {
+        "recipe_name": "Taco Salad",
+        "ingredients": [
+          "1 lb ground beef",
+          "1 packet taco seasoning mix",
+          "1 head of lettuce, chopped",
+          "1 cup shredded cheddar cheese",
+          "1 cup diced tomatoes",
+          "1 cup diced red onion",
+          "1 cup diced bell pepper",
+          "1 can black beans, drained and rinsed",
+          "1 can corn, drained",
+          "1/2 cup salsa",
+          "1/4 cup sour cream",
+          "1/4 cup chopped fresh cilantro",
+          "Tortilla chips, for serving"
+        ],
+        "cooking_method":
+          "In a large skillet, cook ground beef over medium heat until browned and cooked through. Drain excess fat.Add taco seasoning mix and stir to combine. Cook for 2-3 minutes.In a large bowl, mix together chopped lettuce, shredded cheese, diced tomatoes, red onion, and bell pepper.Add black beans, corn, salsa, and sour cream to the bowl. Toss to combine.Add cooked ground beef to the bowl and toss to combine.Garnish with chopped cilantro and serve with tortilla chips.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Grilled Salmon with Lemon Herb Butter",
+        "ingredients": [
+          "4 salmon fillets",
+          "1/2 cup unsalted butter, softened",
+          "1 lemon, zested and juiced",
+          "1 garlic clove, minced",
+          "1 tbsp chopped fresh parsley",
+          "1 tbsp chopped fresh dill",
+          "Salt and pepper",
+          "Olive oil, for grilling"
+        ],
+        "cooking_method": 
+          "Preheat grill to medium-high heat.Season salmon fillets with salt and pepper.In a small bowl, mix together softened butter, lemon zest, lemon juice, garlic, parsley, and dill.Divide butter mixture evenly among salmon fillets, spreading it on top of each fillet.Drizzle olive oil on the grill grates and place salmon fillets on the grill, skin side down.Grill for 5-6 minutes, then carefully flip fillets over and grill for an additional 3-4 minutes, or until salmon is cooked through and flaky.Serve hot with additional lemon wedges,if desired."
+        ,
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Beef and Broccoli Stir Fry",
+        "ingredients": [
+          "1 lb flank steak, thinly sliced",
+          "1 lb broccoli florets",
+          "1 onion, sliced",
+          "2 cloves garlic, minced",
+          "1 inch ginger, minced",
+          "1/4 cup soy sauce",
+          "2 tbsp oyster sauce",
+          "2 tbsp hoisin sauce",
+          "1 tbsp cornstarch",
+          "1/4 cup water",
+          "2 tbsp vegetable oil",
+          "Salt and pepper"
+        ],
+        "cooking_method" :
+          "In a large bowl, mix together sliced flank steak with soy sauce and cornstarch. Season with salt and pepper.In a small bowl, mix together oyster sauce, hoisin sauce, and water. Set aside.In a wok or large skillet, heat vegetable oil over high heat. Add sliced onion and stir fry for 2-3 minutes, or until softened.Add minced garlic and ginger and stir fry for another 1-2 minutes, or until fragrant.Add sliced beef to the wok and stir fry for 3-4 minutes, or until browned and cooked through.Add broccoli florets to the wok and stir fry for an additional 2-3 minutes, or until tender but still crisp.Pour the sauce over the beef and broccoli and stir to combine. Cook for another 1-2 minutes, or until the sauce has thickened and coated the beef and broccoli.Serve hot over rice.",
+        "rating": 4.8
+      }
+    ],
     "years_of_experience": 20,
     "likes" : 4561,
     "num_recipes": 500
   }
-]
+]       
