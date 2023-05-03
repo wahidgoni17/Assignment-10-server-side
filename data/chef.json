@@ -6,6 +6,7 @@
     "bio" : "Pablo James is an accomplished chef with over a decade of experience in the culinary arts. He has worked in a variety of kitchens, from small bistros to high-end restaurants, and has developed a reputation for creating innovative and delicious dishes.",
     "recipes": [
       {
+        "r_id" : 1,
         "recipe_name": "Spaghetti Carbonara",
         "ingredients": [
           "8 oz spaghetti",
@@ -21,6 +22,7 @@
         "rating": 4.5
       },
       {
+        "r_id" : 2,
         "recipe_name": "Garlic Butter Steak",
         "ingredients": [
           "2 ribeye steaks",
@@ -35,6 +37,7 @@
         "rating": 4.8
       },
       {
+        "r_id" : 3,
         "recipe_name": "Korean Fried Chicken",
         "ingredients": [
           "1 lb chicken wings",
@@ -67,6 +70,7 @@
     "bio" : "Marco Rodriguez is a passionate chef who takes inspiration from his Mexican heritage. He has worked in several well-known restaurants in Mexico and the United States, and is known for his bold and flavorful dishes.",
     "recipes": [
       {
+        "r_id" : 1,
         "recipe_name": "Grilled Shrimp with Mango Salsa",
         "ingredients": [
           "1 lb shrimp",
@@ -82,6 +86,7 @@
         "rating": 4.5
       },
       {
+        "r_id" : 2,
         "recipe_name": "Pan-Roasted Chicken with Lemon-Thyme Sauce",
         "ingredients": [
           "4 chicken breasts",
@@ -99,6 +104,7 @@
         "rating": 4.7
       },
       {
+        "r_id" : 3,
         "recipe_name": "Sesame Noodles with Vegetables",
         "ingredients": [
           "8 oz spaghetti",
@@ -128,6 +134,7 @@
     "bio" : "Adam Ryan is a rising star in the culinary world, with a talent for blending flavors and creating unique dishes. He has trained under several renowned chefs, and has won several awards for his innovative cuisine.",
     "recipes": [
       {
+        "r_id" : 1,
         "recipe_name": "Taco Salad",
         "ingredients": [
           "1 lb ground beef",
@@ -149,6 +156,7 @@
         "rating": 4.5
       },
       {
+        "r_id" : 2,
         "recipe_name": "Grilled Salmon with Lemon Herb Butter",
         "ingredients": [
           "4 salmon fillets",
@@ -166,6 +174,7 @@
         "rating": 4.8
       },
       {
+        "r_id" : 3,
         "recipe_name": "Beef and Broccoli Stir Fry",
         "ingredients": [
           "1 lb flank steak, thinly sliced",
@@ -198,6 +207,7 @@
     "bio" : "David Kim is a veteran chef with years of experience in the kitchen. He has worked in a variety of settings, from high-end restaurants to catering companies, and has developed a deep understanding of different cuisines and cooking techniques.",
     "recipes": [
       {
+        "r_id" : 1,
         "recipe_name": "Spaghetti Carbonara",
         "ingredients": [
           "8 oz spaghetti",
@@ -213,6 +223,7 @@
         "rating": 4.5
       },
       {
+        "r_id" : 2,
         "recipe_name": "Garlic Butter Steak",
         "ingredients": [
           "2 ribeye steaks",
@@ -227,6 +238,7 @@
         "rating": 4.8
       },
       {
+        "r_id" : 3,
         "recipe_name": "Korean Fried Chicken",
         "ingredients": [
           "1 lb chicken wings",
@@ -259,6 +271,7 @@
     "bio" : "Sam Willson is a creative chef who approaches cooking like an art form. He has worked in several Michelin-starred restaurants, and is known for his visually stunning and delicious dishes that incorporate a range of textures and flavors.",
     "recipes": [
       {
+        "r_id" : 1,
         "recipe_name": "Grilled Shrimp with Mango Salsa",
         "ingredients": [
           "1 lb shrimp",
@@ -274,6 +287,7 @@
         "rating": 4.5
       },
       {
+        "r_id" : 2,
         "recipe_name": "Pan-Roasted Chicken with Lemon-Thyme Sauce",
         "ingredients": [
           "4 chicken breasts",
@@ -291,6 +305,7 @@
         "rating": 4.7
       },
       {
+        "r_id" : 3,
         "recipe_name": "Sesame Noodles with Vegetables",
         "ingredients": [
           "8 oz spaghetti",
@@ -320,6 +335,7 @@
     "bio" : "Carlos Martinez is a master chef with decades of experience in the kitchen. He has trained under some of the most renowned chefs in the world, and has won numerous awards for his exquisite cuisine. He is known for his attention to detail and his ability to elevate even the simplest ingredients to new heights.",
     "recipes": [
       {
+        "r_id" : 1,
         "recipe_name": "Taco Salad",
         "ingredients": [
           "1 lb ground beef",
@@ -341,6 +357,7 @@
         "rating": 4.5
       },
       {
+        "r_id" : 2,
         "recipe_name": "Grilled Salmon with Lemon Herb Butter",
         "ingredients": [
           "4 salmon fillets",
@@ -358,6 +375,7 @@
         "rating": 4.8
       },
       {
+        "r_id" : 3,
         "recipe_name": "Beef and Broccoli Stir Fry",
         "ingredients": [
           "1 lb flank steak, thinly sliced",
